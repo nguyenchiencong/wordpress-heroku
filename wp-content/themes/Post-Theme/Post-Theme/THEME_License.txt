@@ -1,0 +1,109 @@
+
+ .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. |
+| |   ______     | || |     ____     | || |    _______   | || |  _________   | |
+| |  |_   __ \   | || |   .'    `.   | || |   /  ___  |  | || | |  _   _  |  | |
+| |    | |__) |  | || |  /  .--.  \  | || |  |  (__ \_|  | || | |_/ | | \_|  | |
+| |    |  ___/   | || |  | |    | |  | || |   '.___`-.   | || |     | |      | |
+| |   _| |_      | || |  \  `--'  /  | || |  |`\____) |  | || |    _| |_     | |
+| |  |_____|     | || |   `.____.'   | || |  |_______.'  | || |   |_____|    | |
+| |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------' 
+ 
+ 
+ _________________________-- -=  VERSION 1.1.0  --= ________________________
+
+ 
+                       ! --------  LICENSE  ------- !
+					   
+					   Copyright 2010 MoonThemes.com
+						
+    You must agree to MoonThemes License in order to use this premium theme 
+	which you have downloaded. Carefully read and be sure you understand 
+	the MoonThemes.com license usage.
+	
+	 1. KEEPING OUR DESIGNER BACKLINKS AT THE FOOTER
+    ________________________________________________________________________
+	
+	This Theme Require a Link Back To WebHostingYes.com and MoonThemes.com 
+	Exactly As At The Bottom of Theme. These links are not sponosr links, they
+	are our websites links, and the wesbites belongs to us.
+	
+	Users must at all pages have the pre-installed our designer Links at the 
+	bottom of their web site. User is not allowed to remove those links 
+    (Unless the user pays the link removal fee).  Keeping WebHostingYes.com 
+	and MoonThemes.com links at the bottom of the Theme is compulsory in order
+	to use this Premium Wordpress Theme for Free: By violating linking rules 
+	you fully be aware of committing Copyright violation, and are in breach 
+	of contract. and unquestionably legal action can be taken against. 
+	
+
+    2. THEME LICENSE & USAGES
+    ________________________________________________________________________
+	  
+    All themes files, images, icons and Photoshop source files are licensed 
+	and copyrighted under MOONTHEMES.com 
+	
+	However we have used some scripts, from other sources, like the slider, 
+    menu, or web elements etc	
+
+    Upon download, you are authorized to make modifications, but be careful 
+	you are not allowed to resell or redistribute our themes, modified or 
+	unmodified, to another person, nor can a user place any of our themes, 
+	modified or unmodified, on a website, CDs, filesharing, torrents, or any 
+	other medium for distribution or re-releasing.
+	  
+	This license allows you to use our themes on multiple websites. 
+	Keeping our footer links intact is must.
+	
+	3. YOU ARE NOT ALLOWED
+    ________________________________________________________________________
+	  
+    The license does not allow you to use the themes for pornography 
+	web sites and web sites or individuals that participate in warez, 
+	hacking, cracking, malicious computer crime or fraud, or any other 
+	material or activity that is illegal.
+	
+	Also you are not allowed the themes for religious websites or related to religion. 
+	You are not allowed to use our themes for music and movies websites or related to them.
+   
+    By violating license rules you fully be aware of committing license 
+	violation, and are in breach of contract, unquestionably legal action 
+	can be taken against.   
+	  
+	4. THEME SUPPORT
+    ________________________________________________________________________
+	  
+    The themes that are downloaded do not include support, however upon 
+	request we may offer support for common issues, bugs and customizing any 
+	theme with charging a Fee, and we do not offer support for installation,
+	customization and administration of Wordpress itself.
+
+    We offer e-mail support which is best, fast and easy. All questions and 
+	support inquires should be addressed to help@moonthemes.com
+	
+	5. WARRANTY
+    ________________________________________________________________________
+	  
+    MoonThemes product are “as is” without warranty of any kind either 
+	expressed or implied. We do not guarantee that themes will work in all 
+	browsers, please test the browser compatibility and combination with our 
+	“Live Demo”, nor do we guarantee that our theme will be functional with 
+	all versions of Wordpress. We do not guarantee that our themes will 
+	function with all 3rd party plugins, applications, scripts or any 
+	components. 
+	
+	
+	WE DO HAVE THE RIGHTS TO CHANGE THIS LICENSE AT ANY TIME.
+	
+	
+	
+
+	  
+	  
+	  
+         		 
+					   
+					   
+					   

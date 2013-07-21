@@ -1,0 +1,114 @@
+
+
+.jqueryslidemenu{ margin-top:31px; margin-left:8px;
+font-family: Arial; font-size: 11px; margin-bottom:-1px;
+ width:960px; 
+}
+
+.jqueryslidemenu ul{
+margin: 0;
+padding: 0;
+
+
+}
+
+/*Top level list items*/
+.jqueryslidemenu ul li{
+position: relative;
+display: inline;
+
+z-index:100;
+
+
+}
+
+/*Top level menu link items style*/
+.jqueryslidemenu ul li a{
+display: block;
+ /*background of tabs (default state)*/
+
+padding: 0px 15px 0px; margin-bottom:0px;
+
+text-decoration: none;
+
+
+
+
+}
+
+* html .jqueryslidemenu ul li a{ /*IE6 hack to get sub menu links to behave correctly*/
+display: inline-block;
+}
+.jqueryslidemenu ul li{ margin-top /*\**/: 14px\9; }
+:root .jqueryslidemenu  ul li{  margin-top:14px \0/IE9; }  /* IE9 */
+
+.jqueryslidemenu ul li a:link, .jqueryslidemenu ul li a:visited{
+color: #999; 
+}
+
+.jqueryslidemenu ul li a:hover{
+ background:none;/*tab link background during hover state*/
+color: #5db2ed;  
+		
+}
+	
+/*1st sub level menu*/
+.jqueryslidemenu ul li ul{
+list-style:none;
+display: block; width: 160px;
+visibility: hidden;text-transform:none;
+}
+
+/*Sub level menu list items (undo style from Top level List Items)*/
+.jqueryslidemenu ul li ul li{
+display: list-item;
+float: none; z-index:9999; 
+}
+
+/*All subsequent sub menu levels vertical offset after 1st level sub menu */
+.jqueryslidemenu ul li ul li ul{ top: 0; margin-left:2px; margin-top:-2px;
+}
+
+
+/* Sub level menu links style */
+.jqueryslidemenu ul li ul li a,
+.jqueryslidemenu ul li ul li a:link,
+.jqueryslidemenu ul li ul li a:visited{
+font-family: 'Droid Sans', sans-serif; font-size: 11px; 
+/*width of sub menus*/
+padding: 0px 0 0px 25px;  visibility:visible;
+margin: 0;color:#999; 
+
+}
+
+.jqueryslidemenu ul li ul li a:hover{ /*sub menus hover style*/
+
+color: #3c3c3c;
+}
+
+/* ######### CSS classes applied to down and right arrow images  ######### */
+
+.downarrowclass{
+position: absolute;
+top: 16px;
+right: 5px; display:none;
+
+}
+
+.rightarrowclass{
+position: absolute;
+top: 10px;
+right: 9px;display:none;
+
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) 
+{ .jqueryslidemenu { margin-top:32px; } }
+
+:root .jqueryslidemenu {  margin-top:32px \0/IE9; }  /* IE9 */
+x:-o-prefocus, .jqueryslidemenu {   margin-top:32px;   } 
+x:-o-prefocus, .jqueryslidemenu {   margin-bottom:-2px;   } 
+
+
+.jqueryslidemenu > li.current-menu-item > a,
+.jqueryslidemenu > li.current-menu-ancestor > a {  color:#444444 !important; }

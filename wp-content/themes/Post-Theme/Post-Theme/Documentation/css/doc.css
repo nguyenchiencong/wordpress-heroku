@@ -1,0 +1,67 @@
+
+/*  
+Theme Name: Ten10 HTML CSS Temmplate
+Theme URL: http://themeforest.net/user/bjnet/portfolio
+Description: Theme Design by Basheer Jan
+Version: 1.0
+Author: Basheer Jan
+Author URL: moonthemes.com
+*/
+
+
+/*  -------- Small CSS Resets -------- */
+/*  -----------------V--------------- */
+h1, h2, h3, h4, h5, h6, p, img, a { padding: 0; margin:0; outline:0; border:0; }
+
+
+/*  -------- Body Font and Link -------- */
+/*  ------------------V---------------- */
+body { background: #f7f7f7; color: #333; line-height:21px; font-family: Arial, Helvetica, sans-serif; font-size:11.5px; margin:0; }
+a { color:#fc5271; text-decoration:none; }
+a:hover { color:#fc5271; text-decoration:underline; }
+
+
+
+#main { background:#f7f7f7 url(../images/top-bg.gif); height:150px; }
+
+
+#tblg { background:#f7f7f7 url(../images/2top-bg2.gif) repeat-x; height:60px; margin-top:3px; }
+
+
+
+
+h1 { font-size: 30px; font-family:Arial; color:#fff; padding:54px 0 0px; margin-left:-11px;}
+h2 { font-size: 20px; font-family:Arial; color:#939faa; padding:19px 0 0px 0px; }
+h3 { font-family:Arial; font-size: 20px; color:#939faa; padding:15px 0 15px 9px; }
+.ttpp { font-family:Arial; font-size: 20px; color:#509ccc; padding:15px 0 15px 9px; }
+.ttpp a { color:#509ccc; text-decoration:none; }
+.ttpp a:hover { color:#fc5271; text-decoration:none; }
+h5 { font-size: 2em; }
+h6 { font-size: 1.8em; }
+
+
+.an-right {font-family: Arial; font-size:11px; color:#ccc; padding-left:15px;padding-top:49px; }
+.an-right a {font-family: Arial; font-size:11px; color:#fff; text-decoration:underline;}
+.an-right a:hover { text-decoration:none; }
+
+.c-blue { font-family: Arial; font-size:11px; color:#aaa;  margin-left:-10px;}
+.s-bder { font-family: Arial; font-size:11px; color:#fff; padding-top:43px; margin-left:-55px; }
+.s-bder2 { font-family: Arial; font-size:11px; color:#fff; padding-top:0px;  margin-left:-55px;}
+#side-cats { margin-left:-39px; margin-top:15px; padding-bottom:5px; }
+#side-cats ul { list-style:none;}
+#side-cats ul li { padding:0 0 5px; margin:0;}
+#side-cats ul li a { display:block; font-family: Arial; font-size:13px; color:#2499e4; text-decoration:none; }
+#side-cats ul li a:hover{ color:#fc5271; text-decoration:none; }
+.clear {clear:both;}
+
+.d-box { border:1px solid #dfdfdf; background:#f0f0f0; margin-top:35px;}
+.c-box { border-right:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; border-left:1px solid #dfdfdf; background:#fff; }
+.conto  { font-family: Arial; font-size:12px; color:#505050; padding:19px 19px 0px 19px;}
+.conto2  { font-family: Arial; font-size:12px; color:#505050; padding:10px 19px 0px 19px;}
+.spr {padding-bottom:23px; }
+
+.c-boxo-b { border-right:1px solid #dfdfdf; border-bottom:1px solid #dfdfdf; border-left:1px solid #dfdfdf; background:#fff; margin-bottom:19px;}
+
+.footer-text { font-family: Arial; font-size:11px; color:#aaa; margin-bottom:55px;}
+.footer-text a { font-family: Arial; font-size:11px; color:#2499e4; text-decoration:underline; }
+.footer-text a:hover{ color:#fc5271; text-decoration:none; }
